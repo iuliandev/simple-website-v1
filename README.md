@@ -22,6 +22,10 @@ Install package dependencies
 ```
 npm install
 ```
+Run project in development mode
+```
+npm start
+```
 
 ## Project background
 
