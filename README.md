@@ -27,15 +27,20 @@ npm install
 
 - Home Page
 ![home](public/assets/images/home.png)
+--------------------------------------
 
 - About Page
 ![about](public/assets/images/about-page.png)
+--------------------------------------
 
 - Contacts Page
 ![contacts](public/assets/images/contacts.png)
+--------------------------------------
 
 - Blog Page
 ![blog](public/assets/images/blog.png)
+--------------------------------------
 
 - Responsive Interface
 ![responsive](public/assets/images/responsive-navbar.png)
+--------------------------------------
