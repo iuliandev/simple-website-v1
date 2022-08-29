@@ -1,7 +1,7 @@
 # Simple-Website-v1
 Built with React and Bootstrap
 
-## Installation
+## Installation for Developers
 
 Create React-App 
 ```
@@ -16,7 +16,7 @@ Install React-Router-Dom
 npm i react-router-dom@6
 ```
 
-## Usage
+## Usage for Developers
 
 Install package dependencies
 ```
